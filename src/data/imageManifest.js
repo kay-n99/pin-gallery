@@ -1,0 +1,49 @@
+// Auto-generated image manifest - Do not edit manually
+// Generated: 2025-08-03T11:39:13.106Z
+
+export const imageManifest = {
+  "generated": "2025-08-03T11:39:13.106Z",
+  "version": "1.0.0",
+  "totalAlbums": 1,
+  "totalImages": 3,
+  "albums": [
+    {
+      "id": "album1",
+      "name": "Album1",
+      "path": "/images/album1",
+      "imageCount": 3,
+      "images": [
+        {
+          "id": "album1-0",
+          "filename": "barcode.gif",
+          "title": "Barcode",
+          "url": "/images/album1/barcode.gif",
+          "size": 6917,
+          "lastModified": "2025-07-21T10:58:16.944Z"
+        },
+        {
+          "id": "album1-1",
+          "filename": "bdc6a2c59f3a5be74cf1f8e0ceaa4843.jpg",
+          "title": "Bdc6a2c59f3a5be74cf1f8e0ceaa4843",
+          "url": "/images/album1/bdc6a2c59f3a5be74cf1f8e0ceaa4843.jpg",
+          "size": 20970,
+          "lastModified": "2025-07-23T08:22:53.712Z"
+        },
+        {
+          "id": "album1-2",
+          "filename": "css-pattern-by-magicpattern.png",
+          "title": "Css Pattern By Magicpattern",
+          "url": "/images/album1/css-pattern-by-magicpattern.png",
+          "size": 79292,
+          "lastModified": "2025-08-03T11:39:13.105Z"
+        }
+      ]
+    }
+  ]
+}
+
+export const albums = imageManifest.albums
+export const totalImages = imageManifest.totalImages
+export const totalAlbums = imageManifest.totalAlbums
+
+export default imageManifest
