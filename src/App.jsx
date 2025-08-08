@@ -29,7 +29,8 @@ function App() {
   }, [dispatch])
 
   const handleRefresh = () => {
-    dispatch(refreshAlbums())
+    dispatch(loadAlbumsFromManifest())
+    // dispatch(refreshAlbums())
   }
 
   if (loading && albums.length === 0) {
